@@ -1,0 +1,9 @@
+spaceship mario kart 
+	f-zero type shit, powerups, endless race track, get points for passing opponets and not crashing
+ 3 crashes in a row = loss
+ score multiplier 
+powerups: 
+	- speed boost rocket
+	- shield	
+	- laser (destroy obstacle)
+	- score multiplier
