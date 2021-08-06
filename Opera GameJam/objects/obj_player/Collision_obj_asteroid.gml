@@ -48,3 +48,10 @@ repeat(number)
 	/// @DnDSaveInfo : "sprite" "spr_debree"
 	draw_sprite(spr_debree, 0, 0, 0);
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 5F5F53E1
+/// @DnDArgument : "soundid" "explosion2"
+/// @DnDSaveInfo : "soundid" "explosion2"
+audio_play_sound(explosion2, 0, 0);

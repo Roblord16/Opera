@@ -48,3 +48,17 @@ repeat(number)
 	/// @DnDSaveInfo : "sprite" "spr_debree"
 	draw_sprite(spr_debree, 0, 0, 0);
 }
+
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Volume
+/// @DnDVersion : 1
+/// @DnDHash : 79DA2FEB
+/// @DnDArgument : "sound" "explosion1"
+/// @DnDSaveInfo : "sound" "explosion1"
+audio_sound_gain(explosion1, 1, 0);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1DA8C6BA
+/// @DnDArgument : "soundid" "explosion1"
+/// @DnDSaveInfo : "soundid" "explosion1"
+audio_play_sound(explosion1, 0, 0);
