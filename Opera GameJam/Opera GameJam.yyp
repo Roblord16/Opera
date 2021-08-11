@@ -11,6 +11,7 @@
     {"id":{"name":"spr_lives","path":"sprites/spr_lives/spr_lives.yy",},"order":6,},
     {"id":{"name":"obj_ufo","path":"objects/obj_ufo/obj_ufo.yy",},"order":5,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
+    {"id":{"name":"path_left","path":"paths/path_left/path_left.yy",},"order":1,},
     {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},"order":7,},
     {"id":{"name":"explosion1","path":"sounds/explosion1/explosion1.yy",},"order":1,},
     {"id":{"name":"spr_laser","path":"sprites/spr_laser/spr_laser.yy",},"order":2,},
